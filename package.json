@@ -1,0 +1,20 @@
+{
+  "name": "sindia-btcprice-tracker",
+  "version": "1.0.0",
+  "description": "A simple project to track Bitcoin price.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sindiamalia533/sindia-btcprice-tracker"
+  },
+  "keywords": ["btc", "price", "tracker", "bitcoin"],
+  "author": "Sindia",
+  "license": "ISC",
+  "dependencies": {
+    "sindia-btcprice-tracker": "^1.0.0",
+    "axios": "^0.21.1"
+  }
+}
